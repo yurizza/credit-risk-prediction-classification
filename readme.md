@@ -1,4 +1,4 @@
-# Credit Risk Prediction Classification ("GOOD" or "BAD")
+# Credit Risk Prediction Classification (<font color="yellow">"GOOD"</font> or <font color="red">"BAD"</font>)
 
 ## Problem Statement : 
 
